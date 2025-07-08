@@ -1,61 +1,66 @@
-# 👋 Emmanuella Appiah — Data Scientist | AI Engineer
+<h1 align="center">👋 Hey, I’m Emmanuella!</h1>
 
-📍 Accra, Ghana  
-📫 emmanuellaekuaappiah@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/emmanuella-appiah-16a215213) | [GitHub](https://github.com/Ekuaappiah)
+<p align="center">
+  <b>Data Scientist & AI Engineer</b> <br>
+  Building smart things with code, data, and curiosity.
+</p>
 
----
-
-## 🚀 About Me
-
-I’m a Computer Science graduate and AI Engineer with hands-on experience in:
-
-- **LLM-based Retrieval-Augmented Generation (RAG) systems**
-- **MLOps pipelines** and scalable AI deployments
-- **Predictive modeling** for real-world healthcare and business problems
-
-My work bridges rigorous data science with intuitive user experience, blending tools like LangChain, FastAPI, and Dash to build intelligent applications with impact.
-
-Currently, I’m focused on advancing my career through graduate studies in **Data Science and AI**, with the ultimate goal of driving innovation in **NLP**, **AI infrastructure**, and **data ethics**.
-
-## 🛠️ Skills Snapshot
-
-**Languages:** Python, JavaScript, SQL, HTML/CSS  
-**Frameworks:** LangChain, FastAPI, React (Beginner), Dash, Plotly  
-**AI/ML:** Scikit-learn, TensorFlow, PyTorch, LLMs  
-**Tools:** Docker, Git, PostgreSQL, VS Code  
-**Cloud & Infra:** MLOps, Cloud Platforms  
-**Specialties:** NLP, RAG systems, AI product design, healthcare analytics
+<p align="center">
+  <a href="mailto:emmanuellaekuaappiah@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/emmanuella-appiah-16a215213">💼 LinkedIn</a> •
+  <a href="https://github.com/Ekuaappiah">👾 GitHub</a>
+</p>
 
 ---
 
-## 📚 Let's Collaborate
+### 🚀 What I Do
 
-I'm actively looking to connect with forward-thinking teams and researchers working on:
-
-- AI-powered health solutions  
-- Multilingual NLP applications  
-- Ethical and scalable AI infrastructure
-
-Feel free to reach out or explore my [GitHub](https://github.com/Ekuaappiah) for more!
+- 🧠 LLM-based AI Assistants & RAG systems  
+- 🏥 Predictive modeling in healthcare  
+- ⚙️ MLOps for scalable AI deployment  
+- ✨ Dashboards that *actually* make data pop  
 
 ---
 
-> *“Data becomes powerful when paired with purpose and empathy.”*  
-> — Emmanuella Appiah
-## Hi there 👋
+### 🛠️ My Stack
 
-<!--
-**Ekuaappiah/Ekuaappiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Python` • `LangChain` • `FastAPI` • `Scikit-learn` • `Dash/Plotly`  
+`SQL` • `PostgreSQL` • `Docker` • `VS Code` • `MLOps`  
+*(Beginner in React & Vue — always learning)*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects I’m Proud Of
+
+📖 **[Bible Assistant RAG](https://github.com/Ekuaappiah/bible-assistant-rag)**  
+> Ask questions, get scriptures. AI + NLP meets spirituality.
+
+❤️ **[Cardio Risk Predictor](https://github.com/Ekuaappiah/cardio-risk-predictor)**  
+> Predicts heart disease from clinical data. Clean. Sharp. Reliable.
+
+🌍 **[Global Heart Dashboard](https://github.com/Ekuaappiah/global_heart_disease_dashboard)**  
+> Visual insights into heart health trends around the world.
+
+📄 **[Gemini Doc Chatbot](https://github.com/Ekuaappiah/gemini-doc-rag)**  
+> Upload docs. Ask questions. Get answers. Powered by Google Gemini + RAG.
+
+---
+
+### 📚 Currently Learning
+
+- Gemini APIs  
+- React + Tailwind  
+- Multilingual NLP systems  
+- Real-world AI ethics
+
+---
+
+### ☕ Let’s Connect
+
+I’m always open to collaboration, mentorship, or just tech talk.  
+If you're building something with AI, data, or curiosity — I'm in.  
+Reach out or fork something cool!
+
+---
+
+<p align="center"><i>“Code with empathy. Build with intention.”</i></p>
