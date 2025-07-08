@@ -11,16 +11,6 @@
   <a href="https://github.com/Ekuaappiah">👾 GitHub</a>
 </p>
 
----
-
-### 🚀 What I Do
-
-- 🧠 LLM-based AI Assistants & RAG systems  
-- 🏥 Predictive modeling in healthcare  
-- ⚙️ MLOps for scalable AI deployment  
-- ✨ Dashboards that *actually* make data pop  
-
----
 
 ### 🛠️ My Stack
 
