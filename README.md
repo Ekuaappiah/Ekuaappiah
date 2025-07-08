@@ -38,10 +38,6 @@
   <img src="https://img.shields.io/badge/Vue.js-%23c2185b?style=flat&logo=vue.js&logoColor=white" />
 </p>
 
-<p align="center"><i>🎀 Pretty code. Powerful systems.</i></p>
-
----
-
 ### ☕ Let’s Talk
 
 Building with AI? Exploring something fun?  
