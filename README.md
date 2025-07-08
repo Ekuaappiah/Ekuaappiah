@@ -11,11 +11,16 @@
   <a href="https://github.com/Ekuaappiah">👾 GitHub</a>
 </p>
 
-
 ### 🛠️ My Stack
 
-`Python` • `LangChain` • `FastAPI` • `Scikit-learn` • `Dash/Plotly`  
-`SQL` • `PostgreSQL` • `Docker` • `VS Code` • `MLOps`  
+<p>
+  <img src="https://img.shields.io/badge/Python-ffb6c1?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-da70d6?style=flat&logo=chatbot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-ff69b4?style=flat&logo=fastapi&logoColor=white" />
+</p>
+
+`Scikit-learn` • `Dash/Plotly` • `SQL` • `PostgreSQL`  
+`Docker` • `VS Code` • `MLOps`  
 *(Beginner in React & Vue — always learning)*
 
 
