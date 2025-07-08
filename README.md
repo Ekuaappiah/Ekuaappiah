@@ -28,32 +28,7 @@
 `SQL` • `PostgreSQL` • `Docker` • `VS Code` • `MLOps`  
 *(Beginner in React & Vue — always learning)*
 
----
 
-### 📌 Projects I’m Proud Of
-
-📖 **[Bible Assistant RAG](https://github.com/Ekuaappiah/bible-assistant-rag)**  
-> Ask questions, get scriptures. AI + NLP meets spirituality.
-
-❤️ **[Cardio Risk Predictor](https://github.com/Ekuaappiah/cardio-risk-predictor)**  
-> Predicts heart disease from clinical data. Clean. Sharp. Reliable.
-
-🌍 **[Global Heart Dashboard](https://github.com/Ekuaappiah/global_heart_disease_dashboard)**  
-> Visual insights into heart health trends around the world.
-
-📄 **[Gemini Doc Chatbot](https://github.com/Ekuaappiah/gemini-doc-rag)**  
-> Upload docs. Ask questions. Get answers. Powered by Google Gemini + RAG.
-
----
-
-### 📚 Currently Learning
-
-- Gemini APIs  
-- React + Tailwind  
-- Multilingual NLP systems  
-- Real-world AI ethics
-
----
 
 ### ☕ Let’s Connect
 
